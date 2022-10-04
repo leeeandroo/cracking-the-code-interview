@@ -1,5 +1,6 @@
 import { expect } from "chai";
 
+// URLify a string
 function encodeAsURL(url) {
   if (!url || url.length === 0) {
     return url;
