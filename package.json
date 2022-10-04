@@ -1,0 +1,23 @@
+{
+  "name": "cracking-the-code-interview",
+  "version": "1.0.0",
+  "description": "Exercises from Cracking the Code Interview 6th edition",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeeandroo/cracking-the-code-interview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeeandroo/cracking-the-code-interview/issues"
+  },
+  "homepage": "https://github.com/leeeandroo/cracking-the-code-interview#readme",
+  "devDependencies": {
+    "chai": "^4.3.6"
+  }
+}
