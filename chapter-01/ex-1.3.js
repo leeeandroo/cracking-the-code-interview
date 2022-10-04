@@ -1,3 +1,5 @@
+"use strict";
+
 import { expect } from "chai";
 
 // URLify a string
